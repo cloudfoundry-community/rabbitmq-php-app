@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ext-mbstring": "*",
+        "php-amqplib/php-amqplib": "v2.6.1"
+    }
+}
