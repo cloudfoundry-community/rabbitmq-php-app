@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <body>
 <?php
 require('vendor/autoload.php');
 use PhpAmqpLib\Connection\AMQPStreamConnection;
